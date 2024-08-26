@@ -1,16 +1,34 @@
-# auto_control_panel
+#Aluno:Bruno Rodrigues dos Santos Silva
 
-A new Flutter project.
+Disciplina: UX-para-Desenvolvimento-Mobile-24E3_2
 
-## Getting Started
+#Prints
 
-This project is a starting point for a Flutter application.
+TELA DE LOGIN (SIGIN)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="prints/LOGIN.png" alt="Signin" style="width:200px;heigth:200px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+TELA DE Cadastro
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="prints/CADASTRO.png" alt="Cadastro" style="width:200px;heigth:200px">
+
+TELA DE MENU
+
+<img src="prints/MENU.png" alt="MENU" style="width:200px;heigth:200px">
+
+TELA HOME
+
+<img src="prints/HOME.png" alt="HOME" style="width:200px;heigth:200px">
+
+Nova Tarefa
+
+<img src="prints/NOVATAREFA.png" alt="NOVA" style="width:200px;heigth:200px">
+
+Dashboard
+
+<img src="prints/Dashboard.png" alt="Dashboard" style="width:200px;heigth:200px">
+
+PERFIL
+
+<img src="prints/Perfil.png" alt="Perfil" style="width:200px;heigth:200px">
+
