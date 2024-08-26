@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032793914213",
+    "project_id": "dmf-n1lbr",
+    "storage_bucket": "dmf-n1lbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032793914213:android:85d7db45cd9e7bfbeb3f8c",
+        "android_client_info": {
+          "package_name": "br.jbrnetwork.auto_control_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Cn4xvAvrV5w9xntuQB8aXs3GAcCnnOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
